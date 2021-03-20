@@ -17,8 +17,8 @@ It is clear that male subscribers make up most of the users (see 1st and 2nd sli
 These heatmaps show that activity is heavy before and after work, especially for male subscribers.  They also show an uptick during mid-day hours during weekends.  Iowa should focus on times when transportation is needed most within Des Moines.
   
 ### Trip Duration
-![Line_Chart](/Images/story2.png "Line_Chart") 
+![Line_Chart](/Images/story2.png "Line_Chart")   
 This chart shows that bikes are not used for a long amount of time meaning that they are used for specific purposes rather than all-day activities.
 
 ## Summary
-Bikes are a good solution for commuters and travelers looking to move about the city.  New York is really congested so biking is an effective means of transportation.  For further analysis, I would look into Des Moines demographics to see if they are similar to New York.  A bar chart is a good option for this.  It would also be wise to plot people per square mile on a bubble chart, map, or heat chart in order to gauge human activity within the city at different times of the day.
+Bikes are a good solution for commuters and travelers looking to move about New York Kity.  New York is really congested so biking is an effective means of transportation.  For further analysis, I would look into Des Moines demographics to see if they are similar to New York.  A bar chart is a good option for this.  It would also be wise to plot people per square mile on a bubble chart, map, or heat chart in order to gauge human activity within Des Moines at different times of the day.
